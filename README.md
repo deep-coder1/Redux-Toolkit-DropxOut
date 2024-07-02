@@ -71,3 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 <!-- (1) Remove unnecessary file and code Time 00:00 - 10:00, / 01:04:39 -->
+
+<!-- (2) Create Redux Store, Time 10:00 - 13:36, / 01:04:39 -->
