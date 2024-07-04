@@ -75,3 +75,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 <!-- (2) Create Redux Store, Time 10:00 - 13:36, / 01:04:39 -->
 
 <!-- (3) Create a Redux Store, Provide the Redux Store to React. Time 13:36 - 22:00, / 01:04:39 -->
+
+<!-- (4) Create a Redux Store, Provide the Redux Store to React. Time 22:00 - 26:50, / 01:04:39 -->
